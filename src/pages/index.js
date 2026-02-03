@@ -65,17 +65,42 @@ export default function Home() {
 </a>
 
         <h2>Projects</h2>
-        <ul>
-          <li>
-            <strong>Sales & ROI Dashboard</strong> – Power BI + Excel
-          </li>
-          <li>
-            <strong>Student Performance Tracker</strong> – Python + SQL
-          </li>
-          <li>
-            <strong>Customer Retention Analysis</strong> – Python + Excel
-          </li>
-        </ul>
+
+<div style={{ marginBottom: "20px" }}>
+  <h3>Sales & ROI Dashboard</h3>
+  <p>
+    <strong>Tools:</strong> Power BI, Excel
+  </p>
+  <p>
+    Built an interactive dashboard to track sales performance and ROI across
+    regions. Automated reporting reduced manual effort and improved visibility
+    for decision-makers.
+  </p>
+</div>
+
+<div style={{ marginBottom: "20px" }}>
+  <h3>Student Performance Tracker</h3>
+  <p>
+    <strong>Tools:</strong> Python, SQL
+  </p>
+  <p>
+    Analyzed student performance data to identify trends and at-risk students.
+    Created automated reports using Python to support academic interventions.
+  </p>
+</div>
+
+<div style={{ marginBottom: "20px" }}>
+  <h3>Customer Retention Analysis</h3>
+  <p>
+    <strong>Tools:</strong> Python, Excel
+  </p>
+  <p>
+    Performed churn analysis to identify key factors affecting customer
+    retention. Provided insights that helped prioritize high-risk customer
+    segments.
+  </p>
+</div>
+
       </main>
     </>
   );
