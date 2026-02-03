@@ -5,25 +5,6 @@ export default function Home() {
     <>
       <Head>
         <title>Shubham Bedge | Data Analyst</title>
-    <div style={{ margin: "20px 0" }}>
-  <a
-    href="https://www.linkedin.com/in/shubhambedge/"
-    target="_blank"
-    rel="noopener noreferrer"
-    style={{ marginRight: "16px", textDecoration: "none", fontWeight: "bold" }}
-  >
-    LinkedIn
-  </a>
-
-  <a
-    href="https://github.com/shubhambbedge"
-    target="_blank"
-    rel="noopener noreferrer"
-    style={{ textDecoration: "none", fontWeight: "bold" }}
-  >
-    GitHub
-  </a>
-</div>
 
         <meta
           name="description"
