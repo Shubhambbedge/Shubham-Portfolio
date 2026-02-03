@@ -11,7 +11,17 @@ export default function Home() {
         />
       </Head>
 
-      <main style={{ maxWidth: "900px", margin: "60px auto", padding: "20px" }}>
+      <main
+  style={{
+    maxWidth: "900px",
+    margin: "60px auto",
+    padding: "40px",
+    backgroundColor: "#fafafa",
+    borderRadius: "12px",
+    fontFamily: "Inter, system-ui, Arial",
+  }}
+>
+
         {/* HERO */}
         <h1 style={{ fontSize: "48px", marginBottom: "10px" }}>
           Shubham Bedge
