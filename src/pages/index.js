@@ -47,7 +47,7 @@ export default function Home() {
 
         <hr style={{ margin: "40px 0" }} />
 <a
-  href="/Shubham_Bedge_Data_Analyst_Resume.pdf"
+  href="Shubham B Bedge Resume.pdf"
   target="_blank"
   rel="noopener noreferrer"
   style={{
