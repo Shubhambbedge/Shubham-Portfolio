@@ -46,6 +46,23 @@ export default function Home() {
         </ul>
 
         <hr style={{ margin: "40px 0" }} />
+<a
+  href="/Shubham_Bedge_Data_Analyst_Resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  style={{
+    display: "inline-block",
+    margin: "30px 0",
+    padding: "12px 24px",
+    backgroundColor: "#000",
+    color: "#fff",
+    textDecoration: "none",
+    borderRadius: "6px",
+    fontWeight: "bold",
+  }}
+>
+  Download Resume
+</a>
 
         <h2>Projects</h2>
         <ul>
